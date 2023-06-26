@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 
 export const Statistics = ({ good, neutral, bad, total, positive }) => {
+
   return (
     <section>
       <h3>Statistics</h3>
